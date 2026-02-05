@@ -1,2 +1,2 @@
 line 1 of file 2
-change in branch2 
+change in branch 2 after changing upstream
