@@ -1,4 +1,4 @@
 line 1 of file 2
-change in branch 2 after changing upstream
-changing int main for merge setting 
+change in main for merge setting
+
 
